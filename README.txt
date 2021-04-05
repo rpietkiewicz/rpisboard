@@ -1,8 +1,8 @@
 # rpisboard
 
-rpisboard A simple Drupal 8 site that allows skate, surf and snowboard enthusiasts to view products that will be available to purchase for the upcoming season.
+rpisboard will be a simple Drupal 8 site that allows skate, surf and snowboard enthusiasts to view products that will be available to purchase for the upcoming season.
 
-## Using Sugar
+## Using rpisboard
 
 1.
 
